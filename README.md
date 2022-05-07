@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Everything in the repository was created as a hobby😹
+
 <a href="https://github.com/nana4rider">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=nana4rider&count_private=true&show_icons=true&theme=dracula" />
 </a>
