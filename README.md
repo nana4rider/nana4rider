@@ -38,6 +38,7 @@
 |キーキャップ|[EPBT INK BLANK PBT KEYCAPS](https://kbdfans.com/products/epbt-new-blank-keycaps?variant=39619112894603)|
 |筐体|[アクリル(マットクリア)](https://shop.yushakobo.jp/products/keyboard_acrylic_plate)|
 |パームレスト|[楢(オーダーメイド)](https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%A9)|
+|滑り止め|[Griiip!](https://www.amazon.co.jp/dp/B0749CM2Z6)|
 
 
 <!--
