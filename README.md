@@ -2,6 +2,8 @@
 
 趣味と仕事の勉強を兼ねて、いろいろ作ってる人です😹
 
+本業でなかなか新しい技術に触れる機会がないので、オフで発散しています。
+
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=nana4rider&count_private=true&show_icons=true&theme=dracula" style="height: 170px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nana4rider&layout=compact&theme=dracula&exclude_repo=mdiary" style="height: 170px;" />
@@ -9,17 +11,23 @@
 
 ### スマートホーム化への取り組み
 
-2020年に家を建て、技術力とQOLの向上を目的にスマートホーム化を進めています。  
-[電子錠](https://github.com/nana4rider/jema-smartlock)、[パソコン](https://github.com/nana4rider/remote-switch)、[エアコン](https://github.com/nana4rider/alexa-skill-lambda-eolia)、[テレビ](https://github.com/nana4rider/viera-web-controller)、照明等を[Home Assistant](https://www.home-assistant.io/)で一元管理しています。  
+![Home Assistant](images/home-assistant.png "防犯のため、間取り画像を一部カットしています")
+
+2020年に家を建て、技術力とQOLの向上を目的にスマートホーム化を進めています。
+
+[電子錠](https://github.com/nana4rider/jema-smartlock)、[パソコン](https://github.com/nana4rider/remote-switch)、[エアコン](https://github.com/nana4rider/alexa-skill-lambda-eolia)、[テレビ](https://github.com/nana4rider/viera-web-controller)、温湿度、照明等を[Home Assistant](https://www.home-assistant.io/)で一元管理しています。
 
 また、Alexaスキルを作成しEcho端末を各部屋に配置することにより、音声による操作も快適にしています。
 
 ### キーボードについて
 
-![](images/keyboard.png)
+![Keyboard](images/keyboard.png)
 
-2013年から60%キーボードの魅力に取り憑かれ、[HHKB](https://happyhackingkb.com/jp/)を8年間愛用していました。  
+2013年から60%キーボードの魅力に取り憑かれ、[HHKB](https://happyhackingkb.com/jp/)を8年間愛用していました。
+
 2021年に自作キーボードに目覚め、以降は[7sPro](https://shop.yushakobo.jp/products/7spro)を愛用しています。
+
+キーマップは[こんな感じ](https://github.com/nana4rider/dotfiles/blob/master/keyboard/keymap_cheatsheet_7skb.pdf)。
 
 |部品|購入品|
 | :- | :- |
