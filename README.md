@@ -2,8 +2,6 @@
 
 趣味と仕事の勉強を兼ねて、いろいろ作ってる人です😹
 
-本業でなかなか新しい技術に触れる機会がないので、オフで発散しています。
-
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=nana4rider&count_private=true&show_icons=true&theme=dracula" style="height: 170px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nana4rider&layout=compact&theme=dracula&exclude_repo=mdiary" style="height: 170px;" />
@@ -21,9 +19,9 @@
 
 ### キーボードについて
 
-![Keyboard](images/keyboard.png)
+![Keyboard](images/keyboard.png "自宅用。職場用は別の色で組み立ててます。")
 
-2013年から60%キーボードの魅力に取り憑かれ、[HHKB](https://happyhackingkb.com/jp/)を8年間愛用していました。
+2013年に60%キーボードの魅力に取り憑かれ、[HHKB](https://happyhackingkb.com/jp/)を8年間愛用していました。
 
 2021年に自作キーボードに目覚め、以降は[7sPro](https://shop.yushakobo.jp/products/7spro)を愛用しています。
 
