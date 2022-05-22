@@ -4,7 +4,7 @@
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=nana4rider&count_private=true&show_icons=true&theme=dracula" style="height: 170px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nana4rider&layout=compact&theme=dracula&exclude_repo=mdiary" style="height: 170px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nana4rider&layout=compact&theme=dracula&exclude_repo=mdiary,ffadventure" style="height: 170px;" />
 </div>
 
 ### スマートホーム化への取り組み
