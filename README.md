@@ -9,13 +9,17 @@
 
 ### スマートホーム化への取り組み
 
-![Home Assistant](images/home-assistant.png "防犯のため、間取り画像を一部カットしています")
+![Home Assistant](images/home-assistant1.png "防犯のため、間取り画像を一部カットしています")
+
+![Home Assistant](images/home-assistant2.png)
 
 2020年に家を建て、技術力とQOLの向上を目的にスマートホーム化を進めています。
 
 [電子錠](https://github.com/nana4rider/jema-smartlock)、[パソコン](https://github.com/nana4rider/remote-switch)、[エアコン](https://github.com/nana4rider/alexa-skill-lambda-eolia)、[テレビ](https://github.com/nana4rider/viera-web-controller)、温湿度、照明等を[Home Assistant](https://www.home-assistant.io/)で一元管理しています。
 
 また、Alexaスキルを作成しEcho端末を各部屋に配置することにより、音声による操作も快適にしています。
+
+更に[Discord](https://discord.com/)も活用しており、[鍵の締め忘れ](https://github.com/nana4rider/jema-smartlock#discord)や[IoT機器のバッテリー残量](https://github.com/nana4rider/iot-battery-notification)、買い物リストの更新等を家族サーバーに通知します。
 
 ### キーボードについて
 
