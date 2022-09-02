@@ -13,7 +13,7 @@
 
 2020年に家を建て、技術力とQOLの向上を目的にスマートホーム化を進めています。
 
-[電子錠](https://github.com/nana4rider/jema-smartlock)、[パソコン](https://github.com/nana4rider/remote-switch)、[エアコン](https://github.com/nana4rider/eolia-web-api)、[テレビ](https://github.com/nana4rider/viera-web-controller)、温湿度、照明等を[Home Assistant](https://www.home-assistant.io/)で一元管理しています。
+[電子錠](https://github.com/nana4rider/jema-web-api)、[パソコン](https://github.com/nana4rider/remote-switch)、[エアコン](https://github.com/nana4rider/eolia-web-api)、[テレビ](https://github.com/nana4rider/viera-web-controller)、温湿度、照明等を[Home Assistant](https://www.home-assistant.io/)で一元管理しています。
 
 また、Alexaスキルを作成しEcho端末を各部屋に配置することにより、音声による操作も快適にしています。
 
