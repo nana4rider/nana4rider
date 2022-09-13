@@ -17,7 +17,7 @@
 
 技術力とQOLの向上を目的にスマートホーム化を進めています。
 
-[電子錠](https://github.com/nana4rider/jema-smartlock)、[パソコン](https://github.com/nana4rider/remote-switch)、[エアコン](https://github.com/nana4rider/eolia-web-api)、[テレビ](https://github.com/nana4rider/viera-web-controller)、温湿度、照明等を[Home Assistant](https://www.home-assistant.io/)へ統合するためのAPI(RESTful/MQTT)の開発をしています。
+[電子錠](https://github.com/nana4rider/jema-web-api)、[パソコン](https://github.com/nana4rider/remote-switch)、[エアコン](https://github.com/nana4rider/eolia-web-api)、テレビ([リモコン](https://github.com/nana4rider/viera-web-controller)/[API](https://github.com/nana4rider/viera-web-api))、温湿度、エコキュート、照明等を[Home Assistant](https://www.home-assistant.io/)で一元管理しています。
 
 コードを書くほどでもない簡単なオートメーションは、Home Assistantのオートメーション機能や[Node-RED](https://nodered.jp/docs/)のフローで実現しています。
 
