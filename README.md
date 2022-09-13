@@ -9,17 +9,29 @@
 
 ### スマートホーム化への取り組み
 
+<details>
+<summary>画像を表示</summary>
+
 ![Home Assistant](images/home-assistant1.png "防犯のため、間取り画像を一部カットしています")
+</details>
 
-2020年に家を建て、技術力とQOLの向上を目的にスマートホーム化を進めています。
+技術力とQOLの向上を目的にスマートホーム化を進めています。
 
-[電子錠](https://github.com/nana4rider/jema-smartlock)、[パソコン](https://github.com/nana4rider/remote-switch)、[エアコン](https://github.com/nana4rider/eolia-web-api)、[テレビ](https://github.com/nana4rider/viera-web-controller)、温湿度、照明等を[Home Assistant](https://www.home-assistant.io/)で一元管理しています。
+[電子錠](https://github.com/nana4rider/jema-smartlock)、[パソコン](https://github.com/nana4rider/remote-switch)、[エアコン](https://github.com/nana4rider/eolia-web-api)、[テレビ](https://github.com/nana4rider/viera-web-controller)、温湿度、照明等を[Home Assistant](https://www.home-assistant.io/)へ統合するためのAPI(RESTful/MQTT)の開発をしています。
 
-また、Alexaスキルを作成しEcho端末を各部屋に配置することにより、音声による操作も快適にしています。
+コードを書くほどでもない簡単なオートメーションは、Home Assistantのオートメーション機能や[Node-RED](https://nodered.jp/docs/)のフローで実現しています。
+
+開発言語は主にNode.js(TypeScript)で、動作環境は基本的にはRaspberry Pi 4、電子錠は[簡単な自作回路](https://github.com/nana4rider/jem1427-gpio-ts)を取り付けたRaspberry Pi Zeroを採用しています。
+
+また、[Alexaスキル](https://github.com/nana4rider?tab=repositories&q=alexa-skill)を作成しEcho端末を各部屋に配置することにより、音声による操作も快適にしています。
 
 ### キーボードについて
 
+<details>
+<summary>画像を表示</summary>
+
 ![Keyboard](images/keyboard.png)
+</details>
 
 |部品|購入品|
 | :- | :- |
