@@ -19,6 +19,8 @@
 
 [電子錠](https://github.com/nana4rider/jema-web-api)、[パソコン](https://github.com/nana4rider/remote-switch)、[エアコン](https://github.com/nana4rider/alexa-skill-lambda-echonetlite-thermostat)、テレビ([リモコン](https://github.com/nana4rider/viera-web-controller)/[API](https://github.com/nana4rider/viera-web-api))、温湿度、エコキュート、照明等を[Home Assistant](https://www.home-assistant.io/)で一元管理しています。
 
+また、玄関を[顔認証](https://github.com/nana4rider/ring-faceauth-web-api)で解錠する実験も行っています。
+
 コードを書くほどでもない簡単なオートメーションは、Home Assistantのオートメーション機能や[Node-RED](https://nodered.jp/docs/)のフローで実現しています。
 
 開発言語は主にNode.js(TypeScript)で、動作環境は基本的にはRaspberry Pi 4、電子錠は[簡単な自作回路](https://github.com/nana4rider/jem1427-gpio-ts)を取り付けたRaspberry Pi Zeroを採用しています。
