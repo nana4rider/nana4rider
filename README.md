@@ -38,7 +38,7 @@
 |部品|購入品|
 | :- | :- |
 |本体|[7sPro](https://shop.yushakobo.jp/products/7spro)|
-|キースイッチ|[Sakurio](https://shop.yushakobo.jp/products/pink-roselios-sakurios-silent-linear-limited-edition?variant=37665264894113)|
+|キースイッチ|[Pearlio™](https://shop.yushakobo.jp/products/4315)/[Sakurio](https://shop.yushakobo.jp/products/pink-roselios-sakurios-silent-linear-limited-edition?variant=37665264894113)|
 |キースイッチフィルム|[DUROCK](https://talpkeyboard.net/items/6002dc17da019c4f99dd4e35)|
 |潤滑剤|[Tribosys 3204](https://shop.yushakobo.jp/products/lubricants)
 |スタビライザー|[DUROCK V2 2U](https://talpkeyboard.net/items/6115111f2b2d3d1768766ac8)|
