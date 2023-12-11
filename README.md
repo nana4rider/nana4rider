@@ -2,10 +2,7 @@
 
 趣味と仕事の勉強を兼ねて、いろいろ作ってる人です😹
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=nana4rider&count_private=true&show_icons=true&theme=dracula" style="height: 170px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nana4rider&layout=compact&theme=dracula&exclude_repo=mdiary,ffadventure" style="height: 170px;" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nana4rider&layout=compact&theme=dracula&exclude_repo=mdiary,ffadventure" style="height: 170px;" />
 
 ### スマートホーム化への取り組み
 
