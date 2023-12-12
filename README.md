@@ -1,15 +1,24 @@
 ### 何やってる人？
 
-趣味と仕事の勉強を兼ねて、いろいろ作ってる人です😹
+趣味と仕事の勉強を兼ねて、いろいろ作ってます🐯  
+仕事はJava/Kotlin+Spring Bootがメイン、趣味はTypeScriptがメインです。
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nana4rider&layout=compact&theme=dracula&exclude_repo=mdiary,ffadventure" style="height: 170px;" />
+
+### 保有資格
+- データベーススペシャリスト
+- Oracle Certified Java Programmer, Gold SE 11
+- 大型自動二輪免許
+- 普通自動車第一種運転免許
 
 ### スマートホーム化への取り組み
 
 <details>
 <summary>画像を表示</summary>
 
-![Home Assistant](images/home-assistant1.png "防犯のため、間取り画像を一部カットしています")
+![image](https://github.com/nana4rider/nana4rider/assets/13981905/a5ef0302-462c-4443-8f3a-30c01cd6b601)
+![image](https://github.com/nana4rider/nana4rider/assets/13981905/f741fb62-868e-40a4-9a7c-1c74ff399613)
+
 </details>
 
 技術力とQOLの向上を目的にスマートホーム化を進めています。
