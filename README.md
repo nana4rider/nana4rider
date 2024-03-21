@@ -3,6 +3,9 @@
 趣味と仕事の勉強を兼ねて、いろいろ作ってます🐯  
 仕事はJava/Kotlin+Spring Bootがメイン、趣味はTypeScriptがメインです。
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nana4rider&layout=compact&theme=dracula&exclude_repo=mdiary,ffadventure" style="height: 170px;" />
+
+
 ### できるかも
 - TypeScript(NestJS、ちょっとNext.js)
 - Kotlin/Java(Spring Boot)
@@ -15,8 +18,6 @@
 - データベーススペシャリスト
 - Oracle Certified Java Programmer, Gold SE 11
 - Oracle Certified Java Programmer, Silver SE 11
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nana4rider&layout=compact&theme=dracula&exclude_repo=mdiary,ffadventure" style="height: 170px;" />
 
 ### スマートホーム化への取り組み
 
