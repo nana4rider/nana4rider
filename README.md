@@ -17,7 +17,6 @@
 ### もってる
 - データベーススペシャリスト
 - Oracle Certified Java Programmer, Gold SE 11
-- Oracle Certified Java Programmer, Silver SE 11
 
 ### スマートホーム化への取り組み
 
@@ -31,15 +30,9 @@
 
 技術力とQOLの向上を目的にスマートホーム化を進めています。
 
-[電子錠](https://github.com/nana4rider/jema-web-api)、[パソコン](https://github.com/nana4rider/remote-switch)、[エアコン](https://github.com/nana4rider/alexa-skill-lambda-echonetlite-thermostat)、テレビ([リモコン](https://github.com/nana4rider/viera-web-controller)/[API](https://github.com/nana4rider/viera-web-api))、温湿度、エコキュート、照明等を[Home Assistant](https://www.home-assistant.io/)で一元管理しています。
+基本はHome AssistantとNode-RED、足りない部分はAPIを作ってます。
 
-また、玄関を[顔認証](https://github.com/nana4rider/ring-faceauth-web-api)で解錠する実験も行っています。
-
-コードを書くほどでもない簡単なオートメーションは、Home Assistantのオートメーション機能や[Node-RED](https://nodered.jp/docs/)のフローで実現しています。
-
-開発言語は主にNode.js(TypeScript)で、動作環境は基本的にはRaspberry Pi 4、電子錠は[簡単な自作回路](https://github.com/nana4rider/jem1427-gpio-ts)を取り付けたRaspberry Pi Zeroを採用しています。
-
-また、[Alexaスキル](https://github.com/nana4rider?tab=repositories&q=alexa-skill)を作成しEcho端末を各部屋に配置することにより、音声による操作も快適にしています。
+開発言語は主にNode.js(TypeScript)で、動作環境は基本的にはRaspberry Pi 4 Model B、電子錠は[簡単な自作回路](https://github.com/nana4rider/jem1427-gpio-ts)を取り付けたRaspberry Pi Zeroを採用しています。
 
 ### キーボードについて
 
