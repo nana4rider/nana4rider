@@ -23,8 +23,9 @@
 <details>
 <summary>画像を表示</summary>
 
-![image](https://github.com/nana4rider/nana4rider/assets/13981905/a5ef0302-462c-4443-8f3a-30c01cd6b601)
-![image](https://github.com/nana4rider/nana4rider/assets/13981905/f741fb62-868e-40a4-9a7c-1c74ff399613)
+![image](https://github.com/user-attachments/assets/9e1d1ad0-7e1d-4bc4-b72d-e40a9ba760a0)
+![image](https://github.com/user-attachments/assets/d4a7a64c-cd62-4435-9c8f-f2525cdbdac2)
+
 
 </details>
 
