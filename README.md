@@ -33,7 +33,7 @@
 
 基本はHome AssistantとNode-RED、足りない部分はAPIを作ってます。
 
-開発言語は主にNode.js(TypeScript)で、動作環境は基本的にはRaspberry Pi 4 Model B、電子錠は[簡単な自作回路](https://github.com/nana4rider/jem1427-gpio-ts)を取り付けたRaspberry Pi Zeroを採用しています。
+開発言語は主にNode.js(TypeScript)で、動作環境は基本的にはRaspberry Pi 4 Model B、電子錠は簡単な自作回路を取り付けたRaspberry Pi Zeroを採用しています。
 
 ### キーボードについて
 
