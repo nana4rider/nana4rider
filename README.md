@@ -1,47 +1,58 @@
-### 何やってる人？
+# nana4rider
+
+こんにちは、はじめまして！
+
+## 何やってる人？
 
 趣味と仕事の勉強を兼ねて、いろいろ作ってます🐯  
 仕事はJava/Kotlin+Spring Bootがメイン、趣味はTypeScriptがメインです。
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nana4rider&layout=compact&theme=dracula&exclude_repo=mdiary,ffadventure" style="height: 170px;" />
+## さわったことがある
 
-### できるかも
-- TypeScript(Backend)
-- Kotlin/Java(Spring Boot)
-- PHP(Laravel)
-- SQL
-- HTML/CSSは苦手
-- 正規表現(Perl互換好き)
+<!-- https://github.com/tandpfun/skill-icons -->
 
-### スマートホーム化への取り組み
+### 言語
+[![icons](https://skillicons.dev/icons?i=ts,js,kotlin,java,regex,php,perl,html,css,go)](https://skillicons.dev)
+
+### フレームワーク / ライブラリ
+[![icons](https://skillicons.dev/icons?i=spring,express,nestjs,jest,cypress,laravel,nextjs)](https://skillicons.dev)
+
+### DB
+[![icons](https://skillicons.dev/icons?i=sqlite,mysql,postgres)](https://skillicons.dev)
+
+### ツール
+[![icons](https://skillicons.dev/icons?i=git,gradle,npm,yarn,maven,vscode,idea,prometheus)](https://skillicons.dev)
+
+### インフラ
+[![icons](https://skillicons.dev/icons?i=nginx,docker,k8s,aws,linux,raspberrypi)](https://skillicons.dev)
+
+## スマートホームについて
 
 <details>
-<summary>画像を表示</summary>
+<summary>我が家のダッシュボード</summary>
 
-![image](https://github.com/user-attachments/assets/9e1d1ad0-7e1d-4bc4-b72d-e40a9ba760a0)
-![image](https://github.com/user-attachments/assets/d4a7a64c-cd62-4435-9c8f-f2525cdbdac2)
+![Home Asssistant Dashboard 1](images/hass-dashboard1.png)
+![Home Asssistant Dashboard 2](images/hass-dashboard2.png)
 
 
 </details>
 
-技術力とQOLの向上を目的にスマートホーム化を進めています。
+スキルとQOLの向上を目的にスマートホーム化を進めています。
 
-基本はHome AssistantとNode-RED、足りない部分はAPIを作ってます。
+基本は[Home Assistant](https://www.home-assistant.io/)と[Node-RED](https://nodered.org/)、足りない部分は自分で作ってます。
 
-開発言語は主にNode.js(TypeScript)で、動作環境は基本的にはRaspberry Pi 4 Model B、電子錠は簡単な自作回路を取り付けたRaspberry Pi Zeroを採用しています。
-</details>
+開発言語は主にTypeScriptで、動作環境は基本的にはRaspberry Pi 4 Model B、電子錠は簡単な自作回路を取り付けたRaspberry Pi Zeroを採用しています。
 
-<!--
-**nana4rider/nana4rider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 主な成果物
 
-Here are some ideas to get you started:
+- [JEMA2MQTT](https://github.com/nana4rider/jema2mqtt)  
+  JEM-A端子)をGPIOに接続し、MQTT、Home Assistantで操作するためのアプリケーション
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [ECHONETLite2MQTT Home Assistant Bridge](https://github.com/nana4rider/e2m-hass-bridge)  
+  ECHONETLite2MQTTで検出されたデバイスを、Home Assistantのデバイスとして自動検出させるためのアプリケーション
+
+- [PC2MQTT](https://github.com/nana4rider/pc2mqtt)  
+  パソコンをHome Assistantのスイッチデバイスとして自動検出させるためのアプリケーション
+
+- [Ring Face Recognition](https://github.com/nana4rider/ring-face-recognition)  
+  Ring Doorbellで顔認識するためのアプリケーション
