@@ -34,7 +34,6 @@
 ![Home Asssistant Dashboard 1](images/hass-dashboard1.png)
 ![Home Asssistant Dashboard 2](images/hass-dashboard2.png)
 
-
 </details>
 
 スキルとQOLの向上を目的にスマートホーム化を進めています。
@@ -46,7 +45,7 @@
 ## 主な成果物
 
 - [JEMA2MQTT](https://github.com/nana4rider/jema2mqtt)  
-  JEM-A端子)をGPIOに接続し、MQTT、Home Assistantで操作するためのアプリケーション
+  JEM-A端子をGPIOに接続し、MQTT、Home Assistantで操作するためのアプリケーション
 
 - [ECHONETLite2MQTT Home Assistant Bridge](https://github.com/nana4rider/e2m-hass-bridge)  
   ECHONETLite2MQTTで検出されたデバイスを、Home Assistantのデバイスとして自動検出させるためのアプリケーション
