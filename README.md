@@ -12,19 +12,19 @@
 <!-- https://github.com/tandpfun/skill-icons -->
 
 ### 言語
-[![icons](https://skillicons.dev/icons?i=ts,js,kotlin,java,regex,php,perl,html,css,go)](https://skillicons.dev)
+[![icons](https://skillicons.dev/icons?i=ts,js,kotlin,java,regex,php,perl,html,css,bash,md,go)](https://skillicons.dev)
 
 ### フレームワーク / ライブラリ
-[![icons](https://skillicons.dev/icons?i=spring,express,nestjs,jest,cypress,laravel,nextjs)](https://skillicons.dev)
+[![icons](https://skillicons.dev/icons?i=spring,nodejs,express,nestjs,jest,cypress,laravel,jquery,nextjs)](https://skillicons.dev)
 
 ### DB
 [![icons](https://skillicons.dev/icons?i=sqlite,mysql,postgres)](https://skillicons.dev)
 
 ### ツール
-[![icons](https://skillicons.dev/icons?i=git,gradle,npm,yarn,maven,vscode,idea,prometheus)](https://skillicons.dev)
+[![icons](https://skillicons.dev/icons?i=git,gradle,npm,yarn,maven,discord,vscode,idea,vim,prometheus)](https://skillicons.dev)
 
 ### インフラ
-[![icons](https://skillicons.dev/icons?i=nginx,docker,k8s,aws,linux,raspberrypi)](https://skillicons.dev)
+[![icons](https://skillicons.dev/icons?i=docker,k8s,nginx,aws,linux,windows,raspberrypi)](https://skillicons.dev)
 
 ## スマートホームについて
 
