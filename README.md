@@ -47,6 +47,9 @@
 - [JEMA2MQTT](https://github.com/nana4rider/jema2mqtt)  
   JEM-A端子をGPIOに接続し、MQTT、Home Assistantで操作するためのアプリケーション
 
+- [Wi-SUN2MQTT](https://github.com/nana4rider/wisun2mqtt)  
+  スマートメーターから取得したデータを、Home Assistantで管理するためのアプリケーション
+
 - [ECHONETLite2MQTT Home Assistant Bridge](https://github.com/nana4rider/e2m-hass-bridge)  
   ECHONETLite2MQTTで検出されたデバイスを、Home Assistantのデバイスとして自動検出させるためのアプリケーション
 
