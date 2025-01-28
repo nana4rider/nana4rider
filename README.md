@@ -1,11 +1,11 @@
-# nana4rider
-
-こんにちは、はじめまして！
+# Hi 🖖, I'm AKI
 
 ## 何やってる人？
 
-趣味と仕事の勉強を兼ねて、いろいろ作ってます🐯  
+趣味と仕事の勉強を兼ねて、いろいろ作っています。  
 仕事はJava/Kotlin+Spring Bootがメイン、趣味はTypeScriptがメインです。
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nana4rider&layout=compact)
 
 ## さわったことがある
 
@@ -31,8 +31,7 @@
 <details>
 <summary>我が家のダッシュボード</summary>
 
-![Home Asssistant Dashboard 1](images/hass-dashboard1.png)
-![Home Asssistant Dashboard 2](images/hass-dashboard2.png)
+![Home Asssistant Dashboard](images/hass-dashboard.png)
 
 </details>
 
@@ -41,20 +40,3 @@
 基本は[Home Assistant](https://www.home-assistant.io/)と[Node-RED](https://nodered.org/)、足りない部分は自分で作ってます。
 
 開発言語は主にTypeScriptで、動作環境は基本的にはRaspberry Pi 4 Model B、電子錠は簡単な自作回路を取り付けたRaspberry Pi Zeroを採用しています。
-
-## 主な成果物
-
-- [JEMA2MQTT](https://github.com/nana4rider/jema2mqtt)  
-  JEM-A端子をGPIOに接続し、MQTT、Home Assistantで操作するためのアプリケーション
-
-- [Wi-SUN2MQTT](https://github.com/nana4rider/wisun2mqtt)  
-  スマートメーターから取得したデータを、Home Assistantで管理するためのアプリケーション
-
-- [ECHONETLite2MQTT Home Assistant Bridge](https://github.com/nana4rider/e2m-hass-bridge)  
-  ECHONETLite2MQTTで検出されたデバイスを、Home Assistantのデバイスとして自動検出させるためのアプリケーション
-
-- [PC2MQTT](https://github.com/nana4rider/pc2mqtt)  
-  パソコンをHome Assistantのスイッチデバイスとして自動検出させるためのアプリケーション
-
-- [Ring Face Recognition](https://github.com/nana4rider/ring-face-recognition)  
-  Ring Doorbellで顔認識するためのアプリケーション
