@@ -1,11 +1,13 @@
 # Hi 🖖, I'm AKI
 
-## 何やってる人？
+## 何してる人？
 
 趣味と仕事の勉強を兼ねて、いろいろ作っています。  
 仕事はJava/Kotlin+Spring Bootがメイン、趣味はTypeScriptがメインです。
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nana4rider&layout=compact)
+<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_ja.md -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nana4rider&layout=compact&theme=dracula)
 
 ## さわったことがある
 
@@ -24,12 +26,15 @@
 [![icons](https://skillicons.dev/icons?i=git,gradle,npm,yarn,maven,discord,vscode,idea,vim,prometheus)](https://skillicons.dev)
 
 ### インフラ
-[![icons](https://skillicons.dev/icons?i=docker,k8s,nginx,aws,linux,windows,raspberrypi)](https://skillicons.dev)
+[![icons](https://skillicons.dev/icons?i=docker,k8s,nginx,aws)](https://skillicons.dev)
+
+### OS
+[![icons](https://skillicons.dev/icons?i=linux,windows,apple,raspberrypi)](https://skillicons.dev)
 
 ## スマートホームについて
 
 <details>
-<summary>我が家のダッシュボード</summary>
+<summary>自宅のダッシュボード</summary>
 
 ![Home Asssistant Dashboard](images/hass-dashboard.png)
 
