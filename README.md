@@ -14,22 +14,22 @@
 <!-- https://github.com/LelouchFR/skill-icons -->
 
 ### 言語
-[![icons](https://go-skill-icons.vercel.app/api/icons?titles=true&i=ts,js,kotlin,java,regex,php,perl,html,css,bash,md,mermaid,googleappsscript,go)](https://skillicons.dev)
+[![icons](https://go-skill-icons.vercel.app/api/icons?i=ts,js,kotlin,java,regex,php,perl,yaml,html,css,bash,md,mermaid,googleappsscript,go)](https://skillicons.dev)
 
 ### フレームワーク / ライブラリ
-[![icons](https://go-skill-icons.vercel.app/api/icons?titles=true&i=spring,nodejs,expressjs,nestjs,jest,cypress,laravel,typeorm,jquery,nextjs)](https://skillicons.dev)
+[![icons](https://go-skill-icons.vercel.app/api/icons?i=spring,nodejs,expressjs,nestjs,jest,cypress,laravel,typeorm,jquery,nextjs)](https://skillicons.dev)
 
 ### DB
-[![icons](https://go-skill-icons.vercel.app/api/icons?titles=true&i=sqlite,mysql,postgres,oracle)](https://skillicons.dev)
+[![icons](https://go-skill-icons.vercel.app/api/icons?i=sqlite,mysql,postgres,dynamodb,oracle)](https://skillicons.dev)
 
 ### ツール
-[![icons](https://go-skill-icons.vercel.app/api/icons?titles=true&i=git,gradle,npm,yarn,maven,discord,slack,vscode,idea,vim,swagger,chatgpt)](https://skillicons.dev)
+[![icons](https://go-skill-icons.vercel.app/api/icons?i=git,gradle,npm,yarn,pm2,maven,discord,slack,vscode,idea,vim,swagger,chatgpt)](https://skillicons.dev)
 
 ### インフラ
-[![icons](https://go-skill-icons.vercel.app/api/icons?titles=true&i=docker,k8s,nginx,github,githubactions,aws,prometheus,grafana,tomcat)](https://skillicons.dev)
+[![icons](https://go-skill-icons.vercel.app/api/icons?i=docker,k8s,nginx,github,githubactions,aws,s3,prometheus,grafana,tomcat)](https://skillicons.dev)
 
 ### OS
-[![icons](https://go-skill-icons.vercel.app/api/icons?titles=true&i=linux,windows,apple,raspberrypi)](https://skillicons.dev)
+[![icons](https://go-skill-icons.vercel.app/api/icons?i=linux,windows,wsl,apple,raspberrypi)](https://skillicons.dev)
 
 ## スマートホームについて
 
