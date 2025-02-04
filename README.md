@@ -23,7 +23,7 @@
 [![icons](https://skillicons.dev/icons?i=sqlite,mysql,postgres)](https://skillicons.dev)
 
 ### ツール
-[![icons](https://skillicons.dev/icons?i=git,gradle,npm,yarn,maven,discord,vscode,idea,vim,prometheus)](https://skillicons.dev)
+[![icons](https://skillicons.dev/icons?i=git,gradle,npm,yarn,maven,discord,vscode,idea,vim,prometheus,grafana)](https://skillicons.dev)
 
 ### インフラ
 [![icons](https://skillicons.dev/icons?i=docker,k8s,nginx,aws)](https://skillicons.dev)
