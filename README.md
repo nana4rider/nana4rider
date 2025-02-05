@@ -23,7 +23,7 @@
 [![icons](https://go-skill-icons.vercel.app/api/icons?i=sqlite,mysql,postgres,dynamodb,oracle)](https://skillicons.dev)
 
 ### ツール
-[![icons](https://go-skill-icons.vercel.app/api/icons?i=git,gradle,npm,yarn,pm2,maven,discord,slack,vscode,idea,vim,swagger,chatgpt)](https://skillicons.dev)
+[![icons](https://go-skill-icons.vercel.app/api/icons?i=git,gradle,npm,yarn,pm2,maven,discord,slack,vscode,idea,vim,ansible,swagger,chatgpt)](https://skillicons.dev)
 
 ### インフラ
 [![icons](https://go-skill-icons.vercel.app/api/icons?i=docker,k8s,nginx,github,githubactions,aws,s3,prometheus,grafana,tomcat)](https://skillicons.dev)
