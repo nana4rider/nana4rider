@@ -34,14 +34,21 @@
 ## スマートホームについて
 
 <details>
-<summary>自宅のダッシュボード</summary>
+<summary>ダッシュボード</summary>
 
 ![Home Asssistant Dashboard](images/hass-dashboard.png)
 
 </details>
 
+<details>
+<summary>システム構成図</summary>
+
+!["Home Automation Architecture"](https://raw.githubusercontent.com/nana4rider/home-automation-architecture/refs/heads/main/diagram/export/home-automation-architecture-main.png)
+
+</details>
+
 スキルとQOLの向上を目的にスマートホーム化を進めています。
 
-基本は[Home Assistant](https://www.home-assistant.io/)と[Node-RED](https://nodered.org/)、足りない部分は自分で作ってます。
+[Home Assistant](https://www.home-assistant.io/)と[Node-RED](https://nodered.org/)をベースに、足りない部分は自分で作ってます。
 
 開発言語は主にTypeScriptで、動作環境は基本的にはRaspberry Pi 4 Model B、電子錠は簡単な自作回路を取り付けたRaspberry Pi Zero 2 Wを採用しています。
