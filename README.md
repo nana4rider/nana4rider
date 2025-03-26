@@ -14,7 +14,7 @@
 <!-- https://github.com/LelouchFR/skill-icons -->
 
 ### 言語
-[![icons](https://go-skill-icons.vercel.app/api/icons?i=ts,js,kotlin,java,regex,php,perl,yaml,html,css,bash,md,mermaid,googleappsscript,plsql,go)](https://github.com/LelouchFR/skill-icons)
+[![icons](https://go-skill-icons.vercel.app/api/icons?i=ts,js,kotlin,java,regex,php,perl,yaml,html,css,bash,md,mermaid,googleappsscript,go)](https://github.com/LelouchFR/skill-icons)
 
 ### フレームワーク / ライブラリ
 [![icons](https://go-skill-icons.vercel.app/api/icons?i=spring,nodejs,expressjs,nestjs,jest,cypress,laravel,typeorm,jquery,nextjs)](https://github.com/LelouchFR/skill-icons)
